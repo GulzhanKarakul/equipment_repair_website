@@ -167,6 +167,10 @@ header {
     height: 100%;
 }
 
+.header_left h3 {
+    color: var(--color-danger);
+}
+
 .header_left p {
     margin: 1rem 0 2.4rem ;
 }
@@ -368,9 +372,9 @@ footer {
     font-weight: 500;
 }
 
-strong {
+.footer_2 span {
     color: var(--color-danger);
-    /* font-weight: 600; */
+    font-weight: 600;
 }
 
 .footer_copyright {
