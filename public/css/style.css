@@ -336,6 +336,10 @@ header {
     padding: 2rem 1rem 0;
 }
 
+.about_company-right span {
+    color: var(--color-primary);
+}
+
 /* ============================ Footer ================================= */
 footer {
     background: var(--color-bg1);
@@ -365,9 +369,9 @@ footer {
     font-weight: 500;
 }
 
-.footer_2 span {
+.footer_2 strong {
     color: var(--color-danger);
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 .footer_copyright {
