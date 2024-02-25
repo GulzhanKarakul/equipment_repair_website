@@ -385,7 +385,7 @@ footer {
 }
 
 /* ============================ Адаптивная верстка (Планшет) ================================= */
-@media screen and (max-width: 1056px) {
+@media screen and (max-width: 1050px) {
     .container {
         width: var(--container-width-md);
     }
