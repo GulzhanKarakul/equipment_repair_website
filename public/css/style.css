@@ -368,7 +368,7 @@ footer {
     font-weight: 500;
 }
 
-.footer_2 strong {
+strong {
     color: var(--color-danger);
     /* font-weight: 600; */
 }
