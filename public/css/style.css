@@ -477,7 +477,7 @@ footer {
 
     /* ======================= Header ======================== */
     header {
-        height: auto;
+        height: 52vh;
         margin-bottom: 4rem;
     }
 
@@ -562,6 +562,9 @@ footer {
     }
 
     /* ======================= Navbar ======================== */
+    header {
+        height: 100vh;
+    }
 
     .header_container {
         grid-template-columns: 1fr;
