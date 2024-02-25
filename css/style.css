@@ -407,10 +407,6 @@ footer {
     }
 
     /* ==================== Navbar ===================== */
-    nav {
-        background: var(--color-bg1);
-        margin-bottom: 30px;
-    }
 
     nav button {
         display: inline-block;
